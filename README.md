@@ -13,7 +13,7 @@ Inspired by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-
 
 |  Category |  `C` |  `P`  |  `Other` |
 |:------------|:--------------:|:----------------------:|:----------:|
-| Explanation | Model compression | Performance up | other types |
+| Explanation | Model compression | Performance up | Other types |
 
 ### 2019
 |   Title  | Issue | Category | Release |
@@ -29,11 +29,11 @@ Inspired by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-
 | [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928) | ICLR | `C` | [GitHub](https://github.com/szagoruyko/attention-transfer) |
 
 ### 2016
-|   Title  | Issue | Release |
-| :--------| :---: | :-----: |
+|   Title  | Issue | Category | Release |
+| :--------| :---: | :-----:  | :-----: |
 
 ### 2015
-|   Title  | Issue | Release |
-| :--------| :---: | :-----: |
+|   Title  | Issue | Category | Release |
+| :--------| :---: | :-----:  | :-----: |
 | [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550) | ICLR | `C` | [GitHub](https://github.com/adri-romsor/FitNets/tree/master/costs) |
 | [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) | NIPS | `C` | - |
