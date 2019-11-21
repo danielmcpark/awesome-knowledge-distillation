@@ -20,6 +20,7 @@ Inspired by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-
 ### 2017
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928) | ICLR | [GitHub](https://github.com/szagoruyko/attention-transfer) |
 
 ### 2016
 |   Title  | Issue | Release |
