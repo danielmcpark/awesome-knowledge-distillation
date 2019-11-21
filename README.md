@@ -17,6 +17,6 @@
 ### 2016
 
 ### 2015
-|   Title  | Conference |
-| :--------| :--------: |
-| [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) | NIPS |
+|   Title  | Issue | Release |
+| :--------| :---: | :-----: |
+| [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) | NIPS | - |
