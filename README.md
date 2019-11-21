@@ -1,7 +1,6 @@
 # awesome-knowledge-distillation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
-YouTube
 
 ## History
 
