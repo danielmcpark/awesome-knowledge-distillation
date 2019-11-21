@@ -1,5 +1,7 @@
-# awesome-knowledge-distillation
+# awesome-knowledge-distillation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+YouTube
 
 ## History
 
@@ -22,6 +24,8 @@ Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-kno
 ### 2018
 |   Title  | Issue | Category | Release |
 | :--------| :---: | :-----:  | :-----: |
+| [Born-Again Neural Networks](https://arxiv.org/abs/1805.04770) | ICML | `P` | - |
+| [Label Refinery: Improving ImageNet Classification through Label Progression](https://arxiv.org/abs/1805.02641) | - | `P` | [GitHub](https://github.com/hessamb/label-refinery) |
 
 ### 2017
 |   Title  | Issue | Category | Release |
