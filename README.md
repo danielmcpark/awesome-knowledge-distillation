@@ -1,4 +1,5 @@
 # awesome-knowledge-distillation
+Inspired by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 
 ## History
 
