@@ -9,12 +9,20 @@
 - [2015 years](#2015)
 
 ### 2019
+|   Title  | Issue | Release |
+| :--------| :---: | :-----: |
 
 ### 2018
+|   Title  | Issue | Release |
+| :--------| :---: | :-----: |
 
 ### 2017
+|   Title  | Issue | Release |
+| :--------| :---: | :-----: |
 
 ### 2016
+|   Title  | Issue | Release |
+| :--------| :---: | :-----: |
 
 ### 2015
 |   Title  | Issue | Release |
