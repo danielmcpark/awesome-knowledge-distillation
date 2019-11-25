@@ -29,7 +29,7 @@ Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-kno
 | [Born-Again Neural Networks](https://arxiv.org/abs/1805.04770) | ICML | `P` | - |
 | [Label Refinery: Improving ImageNet Classification through Label Progression](https://arxiv.org/abs/1805.02641) | - | `P` | [GitHub](https://github.com/hessamb/label-refinery) |
 | [Knowledge Transfer with Jacobian Matching](https://arxiv.org/abs/1803.00443) | ICML |  |  |
-| [Paraphrasing Complex Network: Network Compression via Factor Transfer](https://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer) | NIPS |  |  |
+| [Paraphrasing Complex Network: Network Compression via Factor Transfer](https://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer) | NIPS | `C` | - |
 
 
 
