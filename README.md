@@ -21,17 +21,23 @@ Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-kno
 | :--------| :---: | :-----:  | :-----: |
 | [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068) | CVPR | `P` | [GitHub](https://github.com/lenscloth/RKD) |
 | [A Comprehensive Overhaul of Feature Distillation](https://arxiv.org/abs/1904.01866) | ICCV | `C` | [GitHub](https://github.com/clovaai/overhaul-distillation) |
+| [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233) | AAAI |  |  |
 
 ### 2018
 |   Title  | Issue | Category | Release |
 | :--------| :---: | :-----:  | :-----: |
 | [Born-Again Neural Networks](https://arxiv.org/abs/1805.04770) | ICML | `P` | - |
 | [Label Refinery: Improving ImageNet Classification through Label Progression](https://arxiv.org/abs/1805.02641) | - | `P` | [GitHub](https://github.com/hessamb/label-refinery) |
+| [Knowledge Transfer with Jacobian Matching](https://arxiv.org/abs/1803.00443) | ICML |  |  |
+| [Paraphrasing Complex Network: Network Compression via Factor Transfer](https://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer) | NIPS |  |  |
+
+
 
 ### 2017
 |   Title  | Issue | Category | Release |
 | :--------| :---: | :-----:  | :-----: |
 | [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928) | ICLR | `C` | [GitHub](https://github.com/szagoruyko/attention-transfer) |
+| [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf) | CVPR |  |  |
 
 ### 2016
 |   Title  | Issue | Category | Release |
