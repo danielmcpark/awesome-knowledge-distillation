@@ -37,7 +37,7 @@ Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-kno
 |   Title  | Issue | Category | Release |
 | :--------| :---: | :-----:  | :-----: |
 | [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/abs/1612.03928) | ICLR | `C` | [GitHub](https://github.com/szagoruyko/attention-transfer) |
-| [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf) | CVPR |  |  |
+| [A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf) | CVPR | `C` | - |
 
 ### 2016
 |   Title  | Issue | Category | Release |
