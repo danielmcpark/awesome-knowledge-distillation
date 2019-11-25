@@ -46,5 +46,5 @@ Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-kno
 ### 2015
 |   Title  | Issue | Category | Release |
 | :--------| :---: | :-----:  | :-----: |
-| [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550) | ICLR | `C` | [GitHub](https://github.com/adri-romsor/FitNets/tree/master/costs) |
+| [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550) | ICLR | `C` | [GitHub](https://github.com/adri-romsor/FitNets) |
 | [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) | NIPS | `C` | - |
