@@ -20,6 +20,7 @@ Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-kno
 |   Title  | Issue | Category | Release |
 | :--------| :---: | :-----:  | :-----: |
 | [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068) | CVPR | `P` | [GitHub](https://github.com/lenscloth/RKD) |
+| [A Comprehensive Overhaul of Feature Distillation](https://arxiv.org/abs/1904.01866) | ICCV | `C` | [GitHub](https://github.com/clovaai/overhaul-distillation) |
 
 ### 2018
 |   Title  | Issue | Category | Release |
