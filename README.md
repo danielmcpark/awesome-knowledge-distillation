@@ -19,6 +19,7 @@ Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-kno
 ### 2019
 |   Title  | Issue | Category | Release |
 | :--------| :---: | :-----:  | :-----: |
+| [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068) | CVPR | `C` | [GitHub](https://github.com/lenscloth/RKD) |
 
 ### 2018
 |   Title  | Issue | Category | Release |
