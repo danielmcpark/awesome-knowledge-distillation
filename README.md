@@ -22,7 +22,7 @@ Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-kno
 | [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068) | CVPR | `P` | [GitHub](https://github.com/lenscloth/RKD) |
 | [A Comprehensive Overhaul of Feature Distillation](https://arxiv.org/abs/1904.01866) | ICCV | `C` | [GitHub](https://github.com/clovaai/overhaul-distillation) |
 | [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233) | AAAI |  | [GitHub](https://github.com/bhheo/AB_distillation) |
-| [Similarity-Preserving Knowledge Distillation](https://arxiv.org/abs/1907.09682) | ICCV | | - |
+| [Similarity-Preserving Knowledge Distillation](https://arxiv.org/abs/1907.09682) | ICCV | `C` | - |
 
 ### 2018
 |   Title  | Issue | Category | Release |
