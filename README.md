@@ -23,6 +23,7 @@ Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-kno
 | [A Comprehensive Overhaul of Feature Distillation](https://arxiv.org/abs/1904.01866) | ICCV | `C` | [GitHub](https://github.com/clovaai/overhaul-distillation) |
 | [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233) | AAAI | `Other` | [GitHub](https://github.com/bhheo/AB_distillation) |
 | [Similarity-Preserving Knowledge Distillation](https://arxiv.org/abs/1907.09682) | ICCV | `C` | - |
+| [Knowledge Distillation via Instance Relationship Graph]() | CVPR | `P` | [GitHub](https://github.com/yufanLIU/IRG) |
 
 ### 2018
 |   Title  | Issue | Category | Release |
@@ -43,6 +44,7 @@ Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-kno
 ### 2016
 |   Title  | Issue | Category | Release |
 | :--------| :---: | :-----:  | :-----: |
+
 
 ### 2015
 |   Title  | Issue | Category | Release |
