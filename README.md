@@ -1,6 +1,6 @@
 # awesome-knowledge-distillation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Cited by [Awesome Knowledge distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+Hello visitors, I'm interested in architectural network reduction like pruning, architectural search or decomposition tensors and also focus on leveraging network performance with knowledge distillation. This page is a historical summary for an extension of my working, knowledge distillation, and summarize mainly training improvements, not on a application-oriented. If you have a quenstion for my working or any discussion with me, freely e-mail me (mincheol.park@kist.re.kr), Thanks !
 
 ## History
 
