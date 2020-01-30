@@ -4,6 +4,7 @@ Hello visitors, I'm interested in architectural network reduction such as prunin
 
 ## History
 
+- [2020 years](#2020)
 - [2019 years](#2019)
 - [2018 years](#2018)
 - [2017 years](#2017)
@@ -15,6 +16,12 @@ Hello visitors, I'm interested in architectural network reduction such as prunin
 |  Category |  `C` |  `P`  |  `Other` |
 |:------------|:--------------:|:----------------------:|:----------:|
 | Explanation | Model compression | Performance up | Other types |
+
+### 2020
+|   Title  | Issue | Category | Release |
+| :--------| :---: | :-----:  | :-----: |
+| [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699) | ICLR | `Other` | [Github](https://github.com/HobbitLong/RepDistiller) |
+
 
 ### 2019
 |   Title  | Issue | Category | Release |
