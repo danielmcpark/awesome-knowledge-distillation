@@ -1,6 +1,6 @@
 # awesome-knowledge-distillation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Hello visitors, I'm interested in architectural network reduction such as pruning, architectural search or decomposition tensors and also focus on leveraging network performance with knowledge distillation. This page is a historical summary for an extension of my working, knowledge distillation, and make up mainly on training improvements, not on a application-oriented. If you have a quenstion for my working or any discussions with me, freely e-mail me (mincheol.park@kist.re.kr), Thanks !
+Hello visitors, I'm interested in architectural network reduction such as pruning, architectural search or decomposition tensors and also focus on leveraging network performance with knowledge distillation. This page puts in order of a historical summary for extension of my work, knowledge distillation, and comprises mainly learning improvements, not on a application-oriented.
 
 ## History
 
@@ -11,11 +11,6 @@ Hello visitors, I'm interested in architectural network reduction such as prunin
 - [2016 years](#2016)
 - [2015 years](#2015)
 
-### Goal
-
-|  Category |  `C` |  `A`  |  `M` | `Other` |
-|:------------|:--------------:|:----------:|:----------:|:----------:|
-| Explanation | Class Probability | Activation | Guidance Map | Others |
 
 ### 2020
 |   Title  | Issue | Category | Release |
