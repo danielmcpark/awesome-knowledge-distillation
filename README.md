@@ -1,6 +1,6 @@
 # awesome-knowledge-distillation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Hello visitors, I'm interested in architectural network reduction such as pruning, architectural search or decomposition tensors and also focus on leveraging network performance with knowledge distillation. This page puts in order of a historical summary for extension of my work, knowledge distillation, and comprises mainly learning improvements, not on an application-oriented.
+Hello visitors, I'm interested in deep neural network reduction, such as pruning, architectural search, tensor approximation, and also focus on leveraging network performance with knowledge distillation. This page puts in order of a brief summary for extension of my work related to knowledge distillation, and comprises mainly learning improvements except for an application-oriented.
 
 ## History
 
