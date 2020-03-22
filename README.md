@@ -16,6 +16,7 @@ Hello visitors, I'm interested in deep neural network reduction, such as pruning
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
 | [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699) | ICLR | [Github](https://github.com/HobbitLong/RepDistiller) |
+| [Online Knowledge Distillation with Diverse Peers](https://aaai.org/Papers/AAAI/2020GB/AAAI-ChenD.4552.pdf) | AAAI | [Github](https://github.com/DefangChen/OKDDip-AAAI2020) |
 
 
 ### 2019
@@ -34,6 +35,7 @@ Hello visitors, I'm interested in deep neural network reduction, such as pruning
 | [Label Refinery: Improving ImageNet Classification through Label Progression](https://arxiv.org/abs/1805.02641) | - | [GitHub](https://github.com/hessamb/label-refinery) |
 | [Knowledge Transfer with Jacobian Matching](https://arxiv.org/abs/1803.00443) | ICML | - |
 | [Paraphrasing Complex Network: Network Compression via Factor Transfer](https://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer) | NIPS | - |
+| [Knowledge Distillation by On-the-Fly Native Ensemble](https://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ensemble.pdf) | NIPS | [Github](https://github.com/Lan1991Xu/ONE_NeurIPS2018) |
 
 
 
