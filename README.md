@@ -27,6 +27,7 @@ Hello visitors, I'm interested in deep neural network reduction, such as pruning
 | [Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233) | AAAI | [Github](https://github.com/bhheo/AB_distillation) |
 | [Similarity-Preserving Knowledge Distillation](https://arxiv.org/abs/1907.09682) | ICCV | - |
 | [Knowledge Distillation via Instance Relationship Graph](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf) | CVPR | [Github](https://github.com/yufanLIU/IRG) |
+| [Diversity with Cooperation: Ensemble Methods for Few-Shot Classification](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dvornik_Diversity_With_Cooperation_Ensemble_Methods_for_Few-Shot_Classification_ICCV_2019_paper.pdf) | ICCV | [Github](https://github.com/dvornikita/fewshot_ensemble) |
 
 ### 2018
 |   Title  | Issue | Release |
@@ -36,6 +37,9 @@ Hello visitors, I'm interested in deep neural network reduction, such as pruning
 | [Knowledge Transfer with Jacobian Matching](https://arxiv.org/abs/1803.00443) | ICML | - |
 | [Paraphrasing Complex Network: Network Compression via Factor Transfer](https://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer) | NIPS | - |
 | [Knowledge Distillation by On-the-Fly Native Ensemble](https://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ensemble.pdf) | NIPS | [Github](https://github.com/Lan1991Xu/ONE_NeurIPS2018) |
+| [Collaborative Learning for Deep Neural Networks](https://papers.nips.cc/paper/7454-collaborative-learning-for-deep-neural-networks.pdf) | NIPS | - |
+| [Deep Mutual Learning](https://zpascal.net/cvpr2018/Zhang_Deep_Mutual_Learning_CVPR_2018_paper.pdf) | CVPR | [Github](https://github.com/chxy95/Deep-Mutual-Learning) |
+| [Large Scale Distributed Neural Network Training Through Online Distillation](https://openreview.net/pdf?id=rkr1UDeC-) | ICLR | - |
 
 
 
