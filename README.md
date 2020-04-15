@@ -17,6 +17,7 @@ Hello visitors, I'm interested in deep neural network reduction, such as pruning
 | :--------| :---: | :-----: |
 | [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699) | ICLR | [Github](https://github.com/HobbitLong/RepDistiller) |
 | [Online Knowledge Distillation with Diverse Peers](https://aaai.org/Papers/AAAI/2020GB/AAAI-ChenD.4552.pdf) | AAAI | [Github](https://github.com/DefangChen/OKDDip-AAAI2020) |
+| [Ensemble Distribution Distillation](https://openreview.net/pdf?id=BygSP6Vtvr) | ICLR | - |
 
 
 ### 2019
