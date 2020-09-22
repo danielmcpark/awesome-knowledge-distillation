@@ -1,6 +1,6 @@
 # awesome-knowledge-distillation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Hello visitors, I'm interested in deep neural network reduction, such as pruning, architectural search, tensor approximation, and also focus on leveraging network performance with knowledge distillation. This page belongs to the summary regarding knowledge distillation, and comprises mainly improvement methods for network training except for application-oriented versions.
+Hello visitors, I have been interested in effcient deep neural networks design, such as pruning, autoML, quantization and also focused on the knowledge distillation for successful network generalization. This page organizes for the knowledge distillation.
 
 ## History
 
