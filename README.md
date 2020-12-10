@@ -15,6 +15,7 @@ Hello visitors, I have been interested in effcient deep neural networks design, 
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space](https://papers.nips.cc/paper/2020/file/91c77393975889bd08f301c9e13a44b7-Paper.pdf) | NeurIPS | [GitHub](https://github.com/AnTuo1998/AE-KD.) |
 | [Revisiting Knowledge Distillation via Label Smoothing Regularization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Revisiting_Knowledge_Distillation_via_Label_Smoothing_Regularization_CVPR_2020_paper.pdf) | CVPR | [GitHub](https://github.com/yuanli2333/Teacher-free-Knowledge-Distillation) |
 | [Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699) | ICLR | [Github](https://github.com/HobbitLong/RepDistiller) |
 | [Online Knowledge Distillation with Diverse Peers](https://aaai.org/Papers/AAAI/2020GB/AAAI-ChenD.4552.pdf) | AAAI | [Github](https://github.com/DefangChen/OKDDip-AAAI2020) |
