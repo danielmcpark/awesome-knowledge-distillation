@@ -38,9 +38,9 @@ Hello visitors, I have been interested in effcient deep neural networks design, 
 | [Born-Again Neural Networks](https://arxiv.org/abs/1805.04770) | ICML | - |
 | [Label Refinery: Improving ImageNet Classification through Label Progression](https://arxiv.org/abs/1805.02641) | - | [Github](https://github.com/hessamb/label-refinery) |
 | [Knowledge Transfer with Jacobian Matching](https://arxiv.org/abs/1803.00443) | ICML | - |
-| [Paraphrasing Complex Network: Network Compression via Factor Transfer](https://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer) | NIPS | - |
-| [Knowledge Distillation by On-the-Fly Native Ensemble](https://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ensemble.pdf) | NIPS | [Github](https://github.com/Lan1991Xu/ONE_NeurIPS2018) |
-| [Collaborative Learning for Deep Neural Networks](https://papers.nips.cc/paper/7454-collaborative-learning-for-deep-neural-networks.pdf) | NIPS | - |
+| [Paraphrasing Complex Network: Network Compression via Factor Transfer](https://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer) | NeurIPS | - |
+| [Knowledge Distillation by On-the-Fly Native Ensemble](https://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ensemble.pdf) | NeurIPS | [Github](https://github.com/Lan1991Xu/ONE_NeurIPS2018) |
+| [Collaborative Learning for Deep Neural Networks](https://papers.nips.cc/paper/7454-collaborative-learning-for-deep-neural-networks.pdf) | NeurIPS | - |
 | [Deep Mutual Learning](https://zpascal.net/cvpr2018/Zhang_Deep_Mutual_Learning_CVPR_2018_paper.pdf) | CVPR | [Github](https://github.com/chxy95/Deep-Mutual-Learning) |
 | [Large Scale Distributed Neural Network Training Through Online Distillation](https://openreview.net/pdf?id=rkr1UDeC-) | ICLR | - |
 
@@ -56,4 +56,4 @@ Hello visitors, I have been interested in effcient deep neural networks design, 
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
 | [FitNets: Hints for Thin Deep Nets](https://arxiv.org/abs/1412.6550) | ICLR | [Github](https://github.com/adri-romsor/FitNets) |
-| [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) | NIPS | - |
+| [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) | NeurIPS | - |
