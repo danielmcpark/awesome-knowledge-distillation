@@ -1,6 +1,6 @@
 # awesome-knowledge-distillation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Hello visitors, I have been interested in effcient deep neural networks design, such as pruning, autoML, quantization and also focused on the knowledge distillation for successful network generalization. This page organizes for the knowledge distillation.
+Hello visitors, I have been interested in an efficient deep neural network design, such as pruning, AutoML, quantization, and focused on the knowledge distillation for successful network generalization. This page organizes for the knowledge distillation.
 
 ## History
 
