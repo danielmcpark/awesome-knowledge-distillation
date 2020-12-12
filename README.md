@@ -46,7 +46,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 | [Collaborative Learning for Deep Neural Networks](https://papers.nips.cc/paper/7454-collaborative-learning-for-deep-neural-networks.pdf) | NeurIPS | - |
 | [Deep Mutual Learning](https://zpascal.net/cvpr2018/Zhang_Deep_Mutual_Learning_CVPR_2018_paper.pdf) | CVPR | [Github](https://github.com/chxy95/Deep-Mutual-Learning) |
 | [Large Scale Distributed Neural Network Training Through Online Distillation](https://openreview.net/pdf?id=rkr1UDeC-) | ICLR | - |
-| [Label Refinery: Improving ImageNet Classification through Label Progression](https://arxiv.org/abs/1805.02641) | - | [Github](https://github.com/hessamb/label-refinery) |
+| [Label Refinery: Improving ImageNet Classification through Label Progression](https://arxiv.org/abs/1805.02641) | Preprint | [Github](https://github.com/hessamb/label-refinery) |
 
 
 
