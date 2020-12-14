@@ -36,6 +36,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 | [Diversity with Cooperation: Ensemble Methods for Few-Shot Classification](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dvornik_Diversity_With_Cooperation_Ensemble_Methods_for_Few-Shot_Classification_ICCV_2019_paper.pdf) | ICCV | [Github](https://github.com/dvornikita/fewshot_ensemble) |
 | [Knowledge Distillation via Instance Relationship Graph](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.pdf) | CVPR | [Github](https://github.com/yufanLIU/IRG) |
 | [Relational Knowledge Distillation](https://arxiv.org/abs/1904.05068) | CVPR | [Github](https://github.com/lenscloth/RKD) |
+| [Correlation congruence for knowledge distillation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Correlation_Congruence_for_Knowledge_Distillation_ICCV_2019_paper.pdf) | ICCV | - |
 
 ### 2018
 |   Title  | Issue | Release |
