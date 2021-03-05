@@ -15,6 +15,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Feature Fusion for Online Mutual Knowledge Distillation](https://arxiv.org/pdf/1904.09058.pdf) | ICPR | - |
 | [Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts](https://papers.nips.cc/paper/2020/file/657b96f0592803e25a4f07166fff289a-Paper.pdf) | NeurIPS | - |
 | [Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher](https://papers.nips.cc/paper/2020/file/ef0d3930a7b6c95bd2b32ed45989c61f-Paper.pdf) | NeurIPS | - |
 | [Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space](https://papers.nips.cc/paper/2020/file/91c77393975889bd08f301c9e13a44b7-Paper.pdf) | NeurIPS | [GitHub](https://github.com/AnTuo1998/AE-KD.) |
