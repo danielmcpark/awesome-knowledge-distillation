@@ -21,6 +21,7 @@ Hello visitors, I have been interested in an efficient deep neural network desig
 ### 2020
 |   Title  | Issue | Release |
 | :--------| :---: | :-----: |
+| [Fakd: Feature-Affinity Based Knowledge Distillation for Efficient Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/9190917) | ICIP | - |
 | [Feature Fusion for Online Mutual Knowledge Distillation](https://arxiv.org/pdf/1904.09058.pdf) | ICPR | - |
 | [Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts](https://papers.nips.cc/paper/2020/file/657b96f0592803e25a4f07166fff289a-Paper.pdf) | NeurIPS | - |
 | [Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher](https://papers.nips.cc/paper/2020/file/ef0d3930a7b6c95bd2b32ed45989c61f-Paper.pdf) | NeurIPS | - |
